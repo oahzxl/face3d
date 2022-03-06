@@ -1,6 +1,5 @@
 """
-Generate 2d maps representing different attributes(colors, depth, pncc, etc)
-: render attributes to image space.
+Generate 2d texture maps representing depth
 """
 import os
 
